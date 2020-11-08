@@ -19,6 +19,7 @@ Download the archive and extract it in a folder of your choice.
 ```sh
 $ python gcal-event-cli <your query>
 ```
+![](https://imgur.com/7NxieAw)
 
 License
 ----
