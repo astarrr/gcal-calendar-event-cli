@@ -1,6 +1,6 @@
 # Google Calendar CLI
 
-Google Calendar CLI command-line tool which allows you to create Google Calendar events in natural language.
+Google Calendar event CLI is command-line tool which allows you to create Google Calendar events in natural language from your CLI.
 
 ### Tech
 
