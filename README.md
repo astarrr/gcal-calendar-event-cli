@@ -1,6 +1,6 @@
-# Google Calendar NLP CLI
+# Google Calendar CLI
 
-Google Calendar NLP CLI command-line tool which allows you to create Google Calendar events in natural language.
+Google Calendar CLI command-line tool which allows you to create Google Calendar events in natural language.
 
 ### Tech
 
@@ -11,28 +11,16 @@ Google Calendar NLP CLI is based on Dialogflow.
 
 ### Installation
 
-Google Calendar NLP CLI requires [Python](https://python.org/) v3+ to run.
+Download the archive and extract it in a folder of your choice.
 
-```sh
-$ pip install gcal-event-cli
-```
 
 ### Usage
 
 ```sh
-$ python -m gcal-event-cli <your query>
+$ python gcal-event-cli <your query>
 ```
-
-
-### Todos
-
- - Stable release
- - Add English anguage support
 
 License
 ----
 
 MIT
-
-
-**Free Software, Hell Yeah!**
