@@ -7,7 +7,8 @@ Google Calendar event CLI is command-line tool which allows you to create Google
 Google Calendar event CLI is based on Dialogflow.
 
 * [DialogFlow](https://cloud.google.com/dialogflow) - Dialogflow is a natural language understanding platform used to design and integrate a conversational user interface into mobile apps, web applications, devices, bots, interactive voice response systems, and so on.
-* [Flask](https://flask.palletsprojects.com/)
+* [Flask](https://flask.palletsprojects.com/) - Flask is a lightweight WSGI web application framework.
+*[PythonAnywhere](https://www.pythonanywhere.com/) - Thanks to PythonAnywhere for the free hosting.
 
 ### Installation
 
