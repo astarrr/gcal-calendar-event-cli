@@ -23,8 +23,7 @@ $ pip install -r requirements.txt
 ```sh
 $ python gcal-event-cli <your query>
 ```
-
-![](https://imgur.com/7NxieAw)
+This tool provides it's best use when used in combo with command line launchers like [Listary (Windows)](https://www.listary.com/), [Wox (Windows)](http://www.wox.one/), [Alfred (MacOS)](https://www.alfredapp.com/).
 
 License
 ----
