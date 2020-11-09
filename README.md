@@ -13,7 +13,10 @@ Google Calendar event CLI is based on Dialogflow.
 ### Installation
 
 Download the archive and extract it in a folder of your choice.
-
+Then install the requirements
+```sh
+$ pip install -r requirements.txt
+```
 
 ### Usage
 
